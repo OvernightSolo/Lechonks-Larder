@@ -2,19 +2,19 @@
 
 #
 
-* Welcome to Lechonk's Larder! In this repository, we have developed an Interactive MERN Application that utilizes data from an API to allow users to collect pokemon cards. There are many variations for users to collect and store from basic cards all the way up to Secret Rare. This application was developed using **React**, **Semantic UI**, and **GraphQL** while storing the data for the app in a **MongoDB** database.
+- Welcome to Lechonk's Larder! In this repository, we have developed an Interactive MERN Application that utilizes data from an API to allow users to collect pokemon cards. There are many variations for users to collect and store from basic cards all the way up to Secret Rare. This application was developed using **React**, **Semantic UI**, and **GraphQL** while storing the data for the app in a **MongoDB** database.
 
 #
 
 ## Table of Contents
 
-- *[User Story](#user-story)*
-- *[Installation](#installation)*
-- *[Deployed App](#deployed-application)*
-- *[Tech](#technologies-used)*
-- *[Acknowledgments](#acknowledgments)*
-- *[License](#license)*
-- *[Authors](#authors)*
+- _[User Story](#user-story)_
+- _[Installation](#installation)_
+- _[Deployed App](#deployed-application)_
+- _[Tech](#technologies-used)_
+- _[Acknowledgments](#acknowledgments)_
+- _[License](#license)_
+- _[Authors](#authors)_
 
 #
 
@@ -30,18 +30,20 @@ SO THAT I CAN keep track of, showcase, and monitor market value of my cards.
 
 ### Installation
 
-* First the user will need to clone the repository:
+- First the user will need to clone the repository:
+
   - `git clone git@github.com:ParksFG/Lechonks-Larder.git`
 
-* The user will imput `npm install` into the command-line.
+- The user will input `npm install` into the command-line.
 
-* The user will then imput `npm start` in the command-line to begin the application.
+- The user will then input `npm start` in the command-line to begin the application.
 
 #
 
 ### Deployed Application
 
 - **[Lechonk's Larder](https://lechonks-larder.herokuapp.com/)**
+
 #
 
 #### Technologies Used
@@ -95,15 +97,11 @@ SO THAT I CAN keep track of, showcase, and monitor market value of my cards.
 
   - [![Portfolio]][tz-portfolio-url]
 
-
-
 - **Parker Gay**
 
   - [![Github]][parker-url]
 
   - [![Portfolio]][pg-portfolio-url]
-
-
 
 - **Breven Glasgow**
 
@@ -111,23 +109,17 @@ SO THAT I CAN keep track of, showcase, and monitor market value of my cards.
 
   - [![Portfolio]][bg-portfolio-url]
 
-
-
 - **Jacob Schwal**
 
   - [![Github]][jacob-url]
 
   - [![Portfolio]][js-portfolio-url]
 
-
-
 - **Scott Sterling**
 
   - [![Github]][scott-url]
 
   - [![Portfolio]][ss-portfolio-url]
-
-
 
 - **Samuel Hsu**
 
